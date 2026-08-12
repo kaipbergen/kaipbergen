@@ -1,7 +1,7 @@
 # Hi, I'm Arshat Kaipbergen 👋
 
 > **Software Engineer** specializing in High-Performance Distributed Systems, Async Backend Architecture, and AI/ML Infrastructure.  
-Transferred from CS @ Nazarbayev University → B.S. in AI @ Luiss University (Rome) | Software Engineer Intern @ EPAM Systems
+> Transferred from CS @ **Nazarbayev University** → B.S. in AI @ **Luiss University** (Rome) | Software Engineer Intern @ **EPAM Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arshat_Kaipbergen-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/arshat-kaipbergen)
 [![Email](https://img.shields.io/badge/Email-kaipbergenarshat@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:kaipbergenarshat@gmail.com)
