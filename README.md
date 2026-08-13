@@ -5,8 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arshat_Kaipbergen-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/arshat-kaipbergen)
 [![Email](https://img.shields.io/badge/Email-kaipbergenarshat@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:kaipbergenarshat@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Almaty,_Kazakhstan-107C41?style=flat-square&logo=googlemaps)](#)
-
+[![Location](https://img.shields.io/badge/Location-Almaty,_Kazakhstan_%7C_Rome,_Italy-107C41?style=flat-square&logo=googlemaps)](#)
 ---
 
 ### ⚡ Technical Focus & Highlights
